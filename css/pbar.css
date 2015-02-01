@@ -1,0 +1,432 @@
+.p-bar {
+  max-width: 32em;
+  margin: 5em auto;
+  background: transparent;
+  border: 2px solid #ff060a;
+  border-radius: 20px;
+}
+
+.inner {
+  background: repeating-linear-gradient(
+  45deg,
+  #f90a0d,
+  #f90a0d 10px,
+  #ff060a 10px, 
+  #ff060a 20px
+  );
+  padding: 8px;
+  border-radius: 8px;
+}
+
+.num {
+  padding: 0;
+  margin: 0;
+}
+
+.onehundred {
+  max-width: 100%
+}
+
+.ninetynine {
+  max-width: 99%;
+}
+
+.ninetyeight {
+  max-width: 98%;
+}
+
+.ninetyseven {
+  max-width: 97%;
+}
+
+.ninetysixty {
+  max-width: 96%;
+}
+
+.ninetyfive {
+  max-width: 95%;
+}
+
+.ninetyfour {
+  max-width: 94%;
+}
+
+.ninetythree {
+  max-width: 93%;
+}
+
+.ninetytwo {
+  max-width: 92%;
+}
+
+.ninetyone {
+  max-width: 91%;
+}
+
+.ninety {
+  max-width: 90%;
+}
+
+.eightynine {
+  max-width: 89%;
+}
+
+.eightyeight {
+  max-width: 88%;
+}
+
+.eightyseven {
+  max-width: 87%;
+}
+
+.eightysix {
+  max-width: 86%;
+}
+
+.eightyfive {
+  max-width: 85%;
+}
+
+.eightyfour {
+  max-width: 84%;
+}
+
+.eightythree {
+  max-width: 83%;
+}
+
+.eightyfour {
+  max-width: 84%;
+}
+
+.eightythree {
+  max-width: 83%;
+}
+
+.eightytwo {
+  max-width: 82%;
+}
+
+.eightyone {
+  max-width: 81%;
+}
+
+.eighty {
+  max-width: 80%;
+}
+
+.seventynine {
+  max-width: 79%;
+}
+
+.seventyeight {
+  max-width: 78%;
+}
+
+.seventyseven {
+  max-width: 77%;
+}
+
+.seventysix {
+  max-width: 76%;
+}
+
+.seventyfive {
+  max-width: 75%;
+}
+
+.seventyfour {
+  max-width: 74%;
+}
+
+.seventythree {
+  max-width: 73%;
+}
+
+.seventytwo {
+  max-width: 72%;
+}
+
+.seventyone {
+  max-width: 71%;
+}
+
+.seventy {
+  max-width: 70%;
+}
+
+.sixtynine {
+  max-width: 69%;
+}
+
+.sixtyeight {
+  max-width: 68%;
+}
+
+.sixtyseven {
+  max-width: 67%;
+}
+
+.sixtysix {
+  max-width: 66%;
+}
+
+.sixtyfive {
+  max-width: 65%;
+}
+
+.sixtyfour {
+  max-width: 64%;
+}
+
+.sixtythree {
+  max-width: 63%;
+}
+
+.sixtytwo {
+  max-width: 62%;
+}
+
+.sixtyone {
+  max-width: 61%;
+}
+
+.sixty {
+  max-width: 60%;
+}
+
+.fiftynine {
+  max-width: 59%;
+}
+
+.fiftyeight {
+  max-width: 58%;
+}
+
+.fiftyseven {
+  max-width: 57%;
+}
+
+.fiftysix {
+  max-width: 56%;
+}
+
+.fiftyfive {
+  max-width: 55%;
+}
+
+.fiftyfour {
+  max-width: 54%;
+}
+
+.fiftythree {
+  max-width: 53%;
+}
+
+.fiftytwo {
+  max-width: 52%;
+}
+
+.fiftyone {
+  max-width: 51%;
+}
+
+.fifty {
+  max-width: 50%;
+}
+
+.fourtynine {
+  max-width: 49%;
+}
+
+.fourtyeight {
+  max-width: 48%;
+}
+
+.fourtyseven {
+  max-width: 47%;
+}
+
+.fourtysix {
+  max-width: 46%;
+}
+
+.fourtyfive {
+  max-width: 45%;
+}
+
+.fourtyfour {
+  max-width: 44%;
+}
+
+.fourtythree {
+  max-width: 43%;
+}
+
+.fourtytwo {
+  max-width: 42%;
+}
+
+.fourtyone {
+  max-width: 41%;
+}
+
+.fourty{
+  max-width: 40%;
+}
+
+.thirtynine {
+  max-width: 39%;
+}
+
+.thirtyeight {
+  max-width: 38%;
+}
+
+.thirtyseven {
+  max-width: 37%;
+}
+
+.thirtysix {
+  max-width: 36%;
+}
+
+.thirtyfive {
+  max-width: 35%;
+}
+
+.thirtyfour {
+  max-width: 34%;
+}
+
+.thirtythree {
+  max-width: 33%;
+}
+
+.thirtytwo {
+  max-width: 32%;
+}
+
+.thirtyone {
+  max-width: 31%;
+}
+
+.thirty {
+  max-width: 30%;
+}
+
+.twentynine {
+  max-width: 29%;
+}
+
+.twentyeight {
+  max-width: 28%;
+}
+
+.twentyseven {
+  max-width: 27%;
+}
+
+.twentysix {
+  max-width: 26%;
+}
+
+.twentyfive {
+  max-width: 25%;
+}
+
+.twentyfour {
+  max-width: 24%;
+}
+
+.twentythree {
+  max-width: 23%;
+}
+
+.twentytwo {
+  max-width: 22%;
+}
+
+.twentyone {
+  max-width: 21%;
+}
+
+.twenty {
+  max-width: 20%;
+}
+
+.nineteen {
+  max-width: 19%;
+}
+
+.eighteen {
+  max-width: 18%;
+}
+
+.seventeen {
+  max-width: 17%;
+}
+
+.sixteen {
+  max-width: 16%;
+}
+
+.fifteen {
+  max-width: 15%;
+}
+
+.fourteen {
+  max-width: 14%;
+}
+
+.thirteen {
+  max-width: 13%;
+}
+
+.twelve {
+  max-width: 12%;
+}
+
+.eleven {
+  max-width: 11%;
+}
+
+.ten {
+  max-width: 10%;
+}
+
+.nine {
+  max-width: 9%;
+}
+
+.eight {
+  max-width: 8%;
+}
+
+.seven {
+  max-width: 7%;
+}
+
+.six {
+  max-width: 6%;
+}
+
+.five {
+  max-width: 5%;
+}
+
+.four {
+  max-width: 4%;
+}
+
+.three {
+  max-width: 3%;
+}
+
+.two {
+  max-width: 2%;
+}
+
+.one {
+  max-width: 1%;
+}
