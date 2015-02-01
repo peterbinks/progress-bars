@@ -17,11 +17,10 @@ Simple, pure CSS progress bars that I whipped up.
 
 Basically once you have the CSS in place all you have to do is add
 
-`
-<div class="p-bar">
+
+`<div class="p-bar">
   <div class="inner onehundred"></div>
 </div>
-
 `
 
 The only part you need to change is the number class. Replace onehundred with any other number and that's the percentage that your bar will show. Though don't put a space in between the numbers ie: "seventyfive", not "seventy five". 
